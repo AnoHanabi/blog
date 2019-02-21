@@ -68,16 +68,11 @@ code2
 
 :smile:
 
-1^st^
+1<sup>st</sup>
 
-H~2~O
+H<sub>2</sub>O
 
-111[^1]
-[^1]:111
-
-==marked==
-
-<font color=red>111</font>
+<font color="red">111</font>
 
 
 
