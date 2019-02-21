@@ -71,3 +71,5 @@ code2
 1<sup>st</sup>
 
 H<sub>2</sub>O
+
+>vscode
