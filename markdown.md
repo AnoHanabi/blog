@@ -72,8 +72,6 @@ code2
 
 H<sub>2</sub>O
 
-<font color="red">111</font>
-
 
 
 
