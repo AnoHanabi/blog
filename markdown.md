@@ -1,3 +1,5 @@
+https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/
+
 *斜体*
 
 **加粗**
@@ -25,19 +27,57 @@
 
 ```
 code1
-
 code2
 ```
 
->引用
+>>>引用1
+>>引用2
+>引用3
 
 - 列表1
 - 列表2
 - 列表2
 
-1. 1
-2. 2
-3. 3
+1. 列表1
+2. 列表2
+3. 列表3
+
+<table>
+    <tr>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+    </tr>
+    <tr>
+         <th>4</th> 
+        <th>5</th>
+        <th>6</th>
+    </tr>
+</table>
+
+\*
+
+1|2|3
+-|-|-
+4|5|6
+7|8|9
+
+- [x] 1
+- [x] 2
+- [ ] 3
+
+:smile:
+
+1^st^
+
+H~2~O
+
+111[^1]
+[^1]:111
+
+==marked==
+
+<font color=red>111</font>
 
 
 
