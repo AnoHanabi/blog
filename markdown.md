@@ -33,7 +33,7 @@ https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/
 \`code\`：<br>
 `code`
 
-\```
+\```<br>
 code1<br>
 code2<br>
 \```<br>
