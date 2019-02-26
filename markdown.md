@@ -35,8 +35,9 @@ https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/
 
 \```
 code1<br>
-code2
-\```：<br>
+code2<br>
+\```<br>
+：
 ```
 code1 
 code2
@@ -113,6 +114,7 @@ code2
 7|8|9
 ```
 ：
+
 1|2|3
 -|-|-
 4|5|6
