@@ -20,7 +20,7 @@
 
 自动换行：`Alt+Z`
 
-切换左右文件视图：`Alt+Left/Right`
+切换左右文件视图：`Alt+PgUp/PgDn`
 
 选中当前行：`Ctrl+I`
 
